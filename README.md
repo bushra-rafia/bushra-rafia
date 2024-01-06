@@ -53,7 +53,10 @@
 </a>
 <a href="https://www.kaggle.com/bushrarafiachowdhury" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
+</a>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=bushra-rafia&&style=flat-square" align="center" />
+</div>  
 </div> 
 <br/>  
 
@@ -64,10 +67,6 @@
 <br/>  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bushra-rafia)  
 <br/> 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=bushra-rafia&&style=flat-square" align="center" />
-</div>  
 
 <br />
 
