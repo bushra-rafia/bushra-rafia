@@ -66,7 +66,7 @@
 
 
 ## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-rafia&hide_border=true&layout=compact)](https://github.com/bushra-rafia)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-rafia&hide_border=true&layout=compact" alt="GitHub Stats">
 
 
 <br/>  
