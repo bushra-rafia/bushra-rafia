@@ -1,6 +1,4 @@
 ### <div align="center">Hi there 👋, I'm Bushra👨‍💻</div>  
-  
-
 <br/>  
 
 
@@ -41,9 +39,7 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>
-
 </td></tr></table>  
-
 <br/>  
 
 
@@ -59,25 +55,15 @@
 <a href="https://www.kaggle.com/bushrarafiachowdhury" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
+</div> 
 <br/>  
 
 
 ## Github Stats  
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bushra-rafia)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-rafia)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bushra-rafia&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/bushra-rafia)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bushra-rafia)  
-
-
 <br/>  
 
 <div align="center">
