@@ -1,8 +1,10 @@
+
+
 ### <div align="center">Hi there 👋, I'm Bushra👨‍💻</div>  
 <br/>  
 
 
-## My Skill Set  
+## Skill set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -61,13 +63,12 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-rafia)](https://github.com/anuraghazra/github-readme-stats)
 <br/>  
-<br/>  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bushra-rafia)  
+</div>  
 <br/> 
-
-<br />
 
 ----
