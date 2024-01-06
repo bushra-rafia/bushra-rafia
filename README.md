@@ -40,6 +40,9 @@
 <a href="https://www.kaggle.com/bushrarafiachowdhury" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.researchgate.net/profile/Bushra-Rafia-Chowdhury" target="_blank">
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png?20201217223315?&style=for-the-badge&logo=researchgate&logoColor=white alt=researchgate style="margin-bottom: 5px;" />
+</a>
 </div> 
 <br/>  
 
