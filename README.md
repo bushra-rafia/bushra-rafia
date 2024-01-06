@@ -62,7 +62,7 @@
 
 
 ## Github Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-rafia&hide_progress=true) &nbsp;
+ &nbsp;  &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-rafia&hide_progress=true) &nbsp;  &nbsp;
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bushra-rafia&theme=transparent&mode=yearly" alt="GitHub Streak"/></a>
 <br/> 
 
