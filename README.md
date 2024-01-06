@@ -59,13 +59,11 @@
 
 
 ## Github Stats  
-<center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-rafia)](https://github.com/anuraghazra/github-readme-stats)
 <br/>  
 <br/>  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bushra-rafia)  
 <br/> 
-</center>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bushra-rafia&&style=flat-square" align="center" />
