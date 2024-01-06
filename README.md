@@ -64,8 +64,7 @@
 
 
 ## Github Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-rafia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-rafia)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bushra-rafia)  
 <br/> 
 
