@@ -1,6 +1,6 @@
 ### <div align="center">Hi there 👋! I'm Bushra.</div>  
 <div align="center">
-  I’m working as a Software Engineer 👨‍💻
+  I’m a Software Engineer 👨‍💻
  </div>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bushra-rafia&&style=flat-square" align="center" />
@@ -28,7 +28,7 @@
 
 
 
-## Connect with me  
+## Find me
 <br/>
 <div align="center">
 <a href="https://github.com/bushra-rafia" target="_blank">
