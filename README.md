@@ -40,11 +40,11 @@
   <a href="https://github.com/bushra-rafia">
     <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://www.researchgate.net/profile/Bushra-Rafia-Chowdhury">
-    <img src="https://img.shields.io/badge/researchgate-cyan?style=for-the-badge&logo=researchgate&logoColor=white" alt="Researchgate Badge"/>
-  </a>
   <a href="https://www.kaggle.com/bushrarafiachowdhury">
     <img src="https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Bushra-Rafia-Chowdhury">
+    <img src="https://img.shields.io/badge/researchgate-white?style=for-the-badge&logo=researchgate&logoColor=black" alt="Researchgate Badge"/>
   </a>
 </div>
 <br/>  
