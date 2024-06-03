@@ -34,19 +34,25 @@
 ## Find me
 <br/>
 <div id="badges" align="center">
-   <!--- <a href="https://linkedin.com/in/bushra-rafia-chowdhury">
+   <a href="https://linkedin.com/in/bushra-rafia-chowdhury">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
+  </a>
   <a href="https://github.com/bushra-rafia">
     <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://www.researchgate.net/profile/Bushra-Rafia-Chowdhury">
-    <img src="https://img.shields.io/badge/researchgate-white?style=for-the-badge&logo=researchgate&logoColor=black" alt="Researchgate Badge"/>
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"/>
   </a>
   <a href="https://www.kaggle.com/bushrarafiachowdhury">
     <img src="https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
+  <a href="https://orcid.org/0000-0003-0013-6971">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=KFlh-iYAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
+  </a>
 </div>
 <br/>  
-
+<!--- end -->
 ----
