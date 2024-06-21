@@ -52,6 +52,9 @@
   <a href="https://scholar.google.com/citations?user=KFlh-iYAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
   </a>
+  <a href="https://uap-edu.academia.edu/BushraRafiaChowdhury">
+    <img src="https://img.shields.io/badge/Academia.edu-333333?style=for-the-badge&logo=academia&logoColor=white" alt="Academia.edu Badge"/>
+  </a>
 </div>
 <br/>  
 <!--- end -->
