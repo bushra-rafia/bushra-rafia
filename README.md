@@ -3,10 +3,6 @@
   I’m a Software Engineer 👨‍💻
 </div>  
 </br>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=bushra-rafia&style=for-the-badge&color=blue&abbreviated=true" align="center" />
-</div>  
-<br/>  
 
 
 ## Skillset  
