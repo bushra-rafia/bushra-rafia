@@ -13,7 +13,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a> 
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="50" /></a>
 <a href="https://cloud.google.com/bigquery" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" alt="SQL" height="50" /></a> 
-<a href="https://lookerstudio.google.com/" target="_blank"><img style="margin: 10px" src="https://www.cdata.com/connect/integrations/datastudio/img/icon.png" alt="Lokker Studio" height="50" /></a> 
+<a href="https://lookerstudio.google.com/" target="_blank"><img style="margin: 10px" src="https://www.cdata.com/connect/integrations/datastudio/img/icon.png" alt="Looker Studio" height="50" /></a> 
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png" alt="LaTeX" height="50" /></a> 
