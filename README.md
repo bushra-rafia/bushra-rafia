@@ -1,11 +1,8 @@
 ### <div align="center">Hi there 👋! I'm Bushra.</div>  
-<div align="center">
-  I’m a Software Engineer 👨‍💻
-</div>  
 </br>
 
 
-## Skillset  
+## 💻 Skillsets
 <br>
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -20,13 +17,26 @@
 </div>
 <br/>  
 
+## 📊 Github Stats
 
-## Github Stats 
- &nbsp;  &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-rafia&hide_progress=true) &nbsp;  &nbsp;
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bushra-rafia&theme=transparent&mode=yearly" alt="GitHub Streak"/></a>
-<br/> 
+<div align="center">
+  <img src="https://img.shields.io/github/stars/bushra-rafia?affiliations=OWNER&style=for-the-badge&color=darkblue" alt="GitHub Stars"/>
+  <br/>
+  <br/>
 
-## Find me
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bushra-rafia&hide_progress=true)
+
+  <br/>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=bushra-rafia&theme=transparent&mode=yearly" alt="GitHub Streak"/>
+  </a>
+
+</div>
+
+
+
+## 🔎 Find Me
 <br/>
 <div id="badges" align="center">
    <a href="https://linkedin.com/in/bushra-rafia-chowdhury">
